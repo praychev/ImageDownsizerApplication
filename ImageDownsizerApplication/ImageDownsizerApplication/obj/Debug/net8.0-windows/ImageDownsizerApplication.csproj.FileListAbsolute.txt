@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.Form1.resources
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.AssemblyInfo.cs
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\bin\Debug\net8.0-windows\ImageDownsizerApplication.exe
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\bin\Debug\net8.0-windows\ImageDownsizerApplication.deps.json
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\bin\Debug\net8.0-windows\ImageDownsizerApplication.runtimeconfig.json
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\bin\Debug\net8.0-windows\ImageDownsizerApplication.dll
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\bin\Debug\net8.0-windows\ImageDownsizerApplication.pdb
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.dll
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\refint\ImageDownsizerApplication.dll
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.pdb
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ImageDownsizerApplication.genruntimeconfig.cache
+C:\Users\hp\source\repos\ImageDownsizerApplication\ImageDownsizerApplication\obj\Debug\net8.0-windows\ref\ImageDownsizerApplication.dll
